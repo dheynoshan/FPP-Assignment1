@@ -1,0 +1,2 @@
+Reason is some characters take two code units to respresent the character.
+So the length is higher than we see when such characters exist in the given string.
